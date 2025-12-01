@@ -1,4 +1,4 @@
-# Project-info
+#web-project-group
 Git workflow practice repository
 # Project Information
 
