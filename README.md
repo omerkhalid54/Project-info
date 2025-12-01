@@ -1,9 +1,9 @@
 # Group Web Project
 
 ## Group Members
-- Member 1
-- Member 2
-- Member 3
+- Omer Khalid
+- Farhan Amjad
+- Shayan Yasir
 
 ## Project Description
 This is a simple website created for our Web Technologies project.  
